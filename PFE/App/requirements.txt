@@ -1,0 +1,8 @@
+faster-whisper
+streamlit
+streamlit_option_menu
+googletrans==4.0.0-rc1
+torch
+pytube
+langdetect
+firebase_admin
